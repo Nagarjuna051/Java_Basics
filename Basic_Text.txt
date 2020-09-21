@@ -1,0 +1,41 @@
+1)what is Java?
+  --> Java is a popular programming language and platform.
+  --> Java is a high level,robust,object-oriented and secure programming language
+  --> Java was developed by SunMicrosystems in the year 1995.
+  --> James Gosling is know as the father of java.
+  Platform:Any hardware or software environment in which a program runs,is Know as a platform
+-------------------------------------------------------------
+  Java Applications:
+         .Mobile applications
+		 .Desktop applications
+		 .Web applications
+		 .Web servers and application servers
+		 .Games
+		 .Database connection
+-------------------------------------------------------------
+Types of Java Applications
+     1)Web Application
+	       ->Servlet,JSP,Struts,Spring,Hibernate,JSF etc. technologies are used for creating web applications in java
+	 2)Standalone Application
+           ->desktop applications or windowbased applications
+             ex:MediaPlayer,antivirus.
+     3)Mobile Application
+           ->To creating mobile applications.
+     4)Enterprice Application
+           ->Banking applications,E-commerse
+-------------------------------------------------------------
+Featurres of Java
+     1.Simple
+	 2.Objec-oriented
+	 3.Platform-independent
+	 4.Portable
+	 5.Secured
+	 6.Interpreted
+	 7.Robust
+	 8.Multithreaded
+	 9.Architecture neutral
+	 10.High-performance
+	 11.Distributed
+	 12.Dynamic
+	 ###if you want full explanation of Features of Java Goto www.javatpoint.com
+-----------------------------------------------------------
